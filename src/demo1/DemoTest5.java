@@ -30,4 +30,9 @@ public class DemoTest5 {
 	public void subtract(int a, int b) {
 		System.out.println(a - b);
 	}
+	
+	public void getInfo(String name, int id) {
+		System.out.println(name);
+		System.out.println(id);
+	}
 }
