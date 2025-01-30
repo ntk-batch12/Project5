@@ -10,6 +10,15 @@ public class DemoTest5 {
 		int result = a + b;
 		
 		System.out.println(result);
+
+		int  x = 10;
+		int y  =20;
+
+		if(x > y) {
+			System.out.println("Greater");
+		} else {
+			System.out.println("Less");
+		}
 	}
 	
 	
